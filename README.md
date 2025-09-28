@@ -122,57 +122,56 @@ Developers can use the structure to embed content for AI-assisted tutoring.
 
 Future expansions may include additional OERs, interactive exercises, and supplemental teaching resources.
 
-.
 ├── CTE
-│   ├── Basic Engineering Science.pdf
-│   ├── BusinessEthics-OP.pdf
-│   ├── Child Growth and Development.pdf
-│   ├── Electrical Engineering.pdf
-│   ├── Entrepreneurship-WEB_qNSArxT.pdf
-│   ├── FinancialAccounting-OP_YioY6nY.pdf
-│   ├── Foundations of Chemical and Biological Engineering I.pdf
-│   ├── Human Nutrition.pdf
-│   ├── Introduction to Autonomous Robots.pdf
-│   ├── IntroductionToBusiness-OP_8D04gAa.pdf
-│   ├── Introduction_To_Computer_Science_-_WEB.pdf
-│   ├── Introduction_to_Python_Programming_-_WEB.pdf
-│   ├── ManagerialAccounting-OP_x3x7rSO.pdf
-│   ├── Principles_Marketing-WEB.pdf
-│   ├── Principles-of-Data-Science-WEB.pdf
-│   ├── PrinciplesofManagement-OP_mGBMvoU.pdf
-│   ├── Workplace_Software_and_Skills_-_WEB_IlfJtcP (1).pdf
-│   └── Workplace_Software_and_Skills_-_WEB_IlfJtcP.pdf
+│   ├── Basic Engineering Science.pdf
+│   ├── BusinessEthics-OP.pdf
+│   ├── Child Growth and Development.pdf
+│   ├── Electrical Engineering.pdf
+│   ├── Entrepreneurship-WEB_qNSArxT.pdf
+│   ├── FinancialAccounting-OP_YioY6nY.pdf
+│   ├── Foundations of Chemical and Biological Engineering I.pdf
+│   ├── Human Nutrition.pdf
+│   ├── Introduction to Autonomous Robots.pdf
+│   ├── IntroductionToBusiness-OP_8D04gAa.pdf
+│   ├── Introduction_To_Computer_Science_-_WEB.pdf
+│   ├── Introduction_to_Python_Programming_-_WEB.pdf
+│   ├── ManagerialAccounting-OP_x3x7rSO.pdf
+│   ├── Principles_Marketing-WEB.pdf
+│   ├── Principles-of-Data-Science-WEB.pdf
+│   ├── PrinciplesofManagement-OP_mGBMvoU.pdf
+│   ├── Workplace_Software_and_Skills_-_WEB_IlfJtcP (1).pdf
+│   └── Workplace_Software_and_Skills_-_WEB_IlfJtcP.pdf
 ├── Math
-│   ├── Algebra_1_-_WEB.pdf
-│   ├── Algebra-and-Trigonometry-2e-WEB.pdf
-│   ├── Calculus_Volume_1_-_WEB_68M1Z5W.pdf
-│   ├── Calculus_Volume_2_-_WEB.pdf
-│   ├── Calculus_Volume_3_-_WEB.pdf
-│   ├── College-Algebra-2e-WEB.pdf
-│   ├── College-Algebra-Corequisite-Support-2e-WEB.pdf
-│   ├── ElementaryAlgebra2e-WEB_3zxfu3Z.pdf
-│   ├── IntermediateAlgebra2e-WEB_RlpFLLx.pdf
-│   ├── Prealgebra2e-WEB_0qbw93r.pdf
-│   ├── Precalculus_2e-WEB.pdf
-│   └── Statistics-WEB.pdf
+│   ├── Algebra_1_-_WEB.pdf
+│   ├── Algebra-and-Trigonometry-2e-WEB.pdf
+│   ├── Calculus_Volume_1_-_WEB_68M1Z5W.pdf
+│   ├── Calculus_Volume_2_-_WEB.pdf
+│   ├── Calculus_Volume_3_-_WEB.pdf
+│   ├── College-Algebra-2e-WEB.pdf
+│   ├── College-Algebra-Corequisite-Support-2e-WEB.pdf
+│   ├── ElementaryAlgebra2e-WEB_3zxfu3Z.pdf
+│   ├── IntermediateAlgebra2e-WEB_RlpFLLx.pdf
+│   ├── Prealgebra2e-WEB_0qbw93r.pdf
+│   ├── Precalculus_2e-WEB.pdf
+│   └── Statistics-WEB.pdf
 ├── Readwrite
-│   ├── English 002: Literature.pdf
-│   ├── English Composition I.pdf
-│   ├── Journalism 101.pdf
-│   └── Speech 101.pdf
+│   ├── English 002: Literature.pdf
+│   ├── English Composition I.pdf
+│   ├── Journalism 101.pdf
+│   └── Speech 101.pdf
 ├── Science
-│   ├── Anatomy_and_Physiology_2e_-_WEB_c9nD9QL.pdf
-│   ├── APBiology-OP_5meoFaG.pdf
-│   ├── Astronomy2e-WEB.pdf
-│   ├── Biology2e-WEB.pdf
-│   ├── College_Physics_2e-WEB_7Zesafu.pdf
-│   ├── College_Physics_for_AP_Courses_2e-WEB_DkhNbxV.pdf
-│   ├── ConceptsofBiology-WEB.pdf
-│   ├── Microbiology-WEB.pdf
-│   ├── Physics-WEB_Sab7RrQ.pdf
-│   ├── University_Physics_Volume_1_-_WEB.pdf
-│   ├── University_Physics_Volume_2_-_WEB.pdf
-│   └── UniversityPhysicsVolume3-WEB.pdf
+│   ├── Anatomy_and_Physiology_2e_-_WEB_c9nD9QL.pdf
+│   ├── APBiology-OP_5meoFaG.pdf
+│   ├── Astronomy2e-WEB.pdf
+│   ├── Biology2e-WEB.pdf
+│   ├── College_Physics_2e-WEB_7Zesafu.pdf
+│   ├── College_Physics_for_AP_Courses_2e-WEB_DkhNbxV.pdf
+│   ├── ConceptsofBiology-WEB.pdf
+│   ├── Microbiology-WEB.pdf
+│   ├── Physics-WEB_Sab7RrQ.pdf
+│   ├── University_Physics_Volume_1_-_WEB.pdf
+│   ├── University_Physics_Volume_2_-_WEB.pdf
+│   └── UniversityPhysicsVolume3-WEB.pdf
 └── Social Studies
     ├── American_Government_4e_-_WEB_eM2Tuqh.pdf
     ├── BusinessEthics-OP.pdf
@@ -186,5 +185,4 @@ Future expansions may include additional OERs, interactive exercises, and supple
     ├── World_History_Volume_1-WEB.pdf
     └── World_History_Volume_2-WEB_LdwoslB.pdf
 
-6 directories, 57 files
 
